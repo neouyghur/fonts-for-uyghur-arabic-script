@@ -1,7 +1,9 @@
 # fonts-for-uyghur-arabic-script
-collection of fonts for Uyghur arabic script
+This is a collection of fonts for Uyghur arabic script. 
 
 # UKIJ Fonts
+For more details and copyright information of UKIJ fonts. Please visit http://www.ukij.org/ug/fontlar/ (Note it is in Uyghur.)
+
 | | | | |
 | ------------- | ------------- | ------------- | ------------- |
 |UKIJ3D.ttf|UKIJInichke.ttf|UKIJ_MacEkran.ttf|UKIJTeng-b.ttf|
@@ -27,3 +29,11 @@ collection of fonts for Uyghur arabic script
 |UKIJEsT.ttf|         UKIJ_MacBasmaBold.ttf|  UKIJSlsBold.ttf|    UKIJZilwa.ttf|
 |UKIJImaret.ttf|      UKIJ_MacBasma.ttf|      UKIJSlsTom.ttf|                    |
 | | | | |
+
+
+# Note
+
+If you need further help or require other fonts related to Uyghur arabic script, please open an issue.
+
+# Copyright
+Check copyright information before using fonts, especially when you using it for business purpose.
