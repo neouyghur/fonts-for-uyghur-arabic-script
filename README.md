@@ -2,6 +2,8 @@
 This is a collection of fonts for Uyghur arabic script. 
 
 ## UKIJ Fonts
+UKIJ fonts are under ukij fonts directory.
+
 For more details and copyright information of UKIJ fonts. Please visit http://www.ukij.org/ug/fontlar/ (Note it is in Uyghur.)
 
 In Linux platform, you can install the fonts via 
