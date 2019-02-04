@@ -4,6 +4,14 @@ This is a collection of fonts for Uyghur arabic script.
 # UKIJ Fonts
 For more details and copyright information of UKIJ fonts. Please visit http://www.ukij.org/ug/fontlar/ (Note it is in Uyghur.)
 
+In Linux platform, you can install the fonts via 
+
+```
+sudo apt-get install fonts-ukij-uyghur
+```
+
+## List of the UKIJ fonts
+
 | | | | |
 | ------------- | ------------- | ------------- | ------------- |
 |UKIJ3D.ttf|UKIJInichke.ttf|UKIJ_MacEkran.ttf|UKIJTeng-b.ttf|
@@ -31,9 +39,12 @@ For more details and copyright information of UKIJ fonts. Please visit http://ww
 | | | | |
 
 
+## Copyright infromation
+All UKIJ fonts are distributed for free and released under LGPL License and Open Font License.
+
 # Note
 
 If you need further help or require other fonts related to Uyghur arabic script, please open an issue.
 
 # Copyright
-Check copyright information before using fonts, especially when you using it for business purpose.
+Check copyright information before using fonts, especially when you are using it for business purposes.
